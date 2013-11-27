@@ -1,9 +1,9 @@
-Mirror.js
-=========
+Fractal Fest
+============
 
-A webcam motion detection experiment using WebRTC, Web Audio API, Canvas & CSS3.    
-See it in action at [http://gwenvanhee.github.io/mirror/](http://gwenvanhee.github.io/mirror/) (Chrome or Firefox only).    
-Head over to [http://labs.littlemissrobot.com](http://labs.littlemissrobot.com/behind-the-mirror/) for more background info on the experiment.    
+Fractal animations for Fractal Fest on [http://ibmblr.tumblr.com/](http://ibmblr.tumblr.com/)    
+Project page & images: [http://bit.ly/IbLPDz/](http://bit.ly/IbLPDz/)    
+Some animated gifs: [http://gwenvanhee.github.io/fractal-fest/](http://gwenvanhee.github.io/fractal-fest/)      
 
 Feedback, questions, ...     
 Get in touch [@gwenvanhee](http://www.twitter.com/gwenvanhee)
